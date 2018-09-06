@@ -1,0 +1,227 @@
+[
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536233698027,
+            "changeTime": 1536233698027,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536233698028,
+            "changeTime": 1536233698028,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536233698029,
+            "changeTime": 1536233698029,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536237029938,
+            "changeTime": 1536237029938,
+            "contentHash": "168c8351c65a494189a896094b02152246850346",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536237029962,
+            "changeTime": 1536237029962,
+            "contentHash": "c46ac56be66ddf2480d8ade07035c1fd185e169d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1536237029961,
+            "changeTime": 1536237029961,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1536237083123,
+            "changeTime": 1536237083123,
+            "contentHash": "b97e855c43dab6fe1a13ecfd39eb7c684675b225",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1536237029946,
+            "changeTime": 1536237029946,
+            "contentHash": "9be21d9b6b76ac5768273bdd97099c0c6d91d878",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1536237029954,
+            "changeTime": 1536237029954,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.design",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1536237029963,
+            "changeTime": 1536237029963,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.svg",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorld.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1536237029959,
+            "changeTime": 1536237029959,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorldController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorldController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1536237029949,
+            "changeTime": 1536237029949,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorldHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorldHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1536237029952,
+            "changeTime": 1536237029952,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorldRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject\\force-app\\main\\default\\aura\\AnotherHelloWorld\\AnotherHelloWorldRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1536237029956,
+            "changeTime": 1536237029956,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\dpunt\\Documents\\SFDX\\HellowWorldProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536236675951,
+            "changeTime": 1536236675951,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
